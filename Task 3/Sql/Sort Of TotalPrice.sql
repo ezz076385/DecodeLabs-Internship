@@ -6,3 +6,4 @@ WHERE OrderStatus = 'Delivered'
 
 Order By TotalPrice DESC;
 --DecodeLabs-Internship-2026
+0u
